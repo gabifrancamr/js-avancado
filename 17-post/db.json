@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Olá, mundo!",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    },
+    {
+      "id": 2,
+      "title": "Requisições POST com Javascript",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    },
+    {
+      "title": "Aprendendo JS",
+      "author": "Gabi",
+      "content": "Lorem Ipsum...",
+      "id": 3
+    },
+    {
+      "title": "Meu quarto artigo",
+      "author": "Gabi",
+      "content": "Este é meu quarto artigo! Yay! :)",
+      "id": 4
+    },
+    {
+      "title": "Teste",
+      "author": "Gabi",
+      "content": "Testando",
+      "id": 5
+    }
+  ]
+}
